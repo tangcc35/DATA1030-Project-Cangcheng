@@ -4,7 +4,7 @@ This is a DATA1030 project of Cangcheng Tang
 
 Hand gesture recognition is a very powerful tool in interaction with an electronic device. Such technology allows hands-free control over smartphones, computers, or even smart household appliances 
 
-The target variable is different "Class" for gestures and "User". This project's main purpose is to train a model to recognize hand gestures based on the coordinates of 12 joints of the hand. There is also an exploratory objective: identifying users.  
+The target variable is different "Class" for gestures and "User". This project's main purpose is to train a model to recognize hand gestures based on the coordinates of 12 joints of the hand. Identifying users is an exploratory objective.  
 
 As the target variable is categorical, not continuous, classification methods and models will be used to solve the problems above.  
 

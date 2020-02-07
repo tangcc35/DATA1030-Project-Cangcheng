@@ -1,5 +1,8 @@
-# DATA1030-Project-Cangcheng  
-This is a DATA1030 project of Cangcheng Tang  
+# Hand Gesture and User Recognition  
+This is a project on Hand Gesture and User Recognition  
+
+
+Reports and presentations can be viewed in the `reports` folder.  
 
 
 Hand gesture recognition is a very powerful tool in interaction with an electronic device. Such technology allows hands-free control over smartphones, computers, or even smart household appliances   

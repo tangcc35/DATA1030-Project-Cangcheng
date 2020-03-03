@@ -1,4 +1,4 @@
-# Hand Gesture and User Recognition  ![](https://img.shields.io/badge/python-3.7+-gold.svg)
+# Hand Gesture and User Recognition  ![](https://img.shields.io/badge/python-3.7+-pink.svg)
 This is a project on Hand Gesture and User Recognition  
 
 
